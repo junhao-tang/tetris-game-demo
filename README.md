@@ -1,4 +1,4 @@
-# demo 2048
+# demo Tetris
 
 A simple demo on how to create tetris-game can be implemented using Flutter and Flame
 
